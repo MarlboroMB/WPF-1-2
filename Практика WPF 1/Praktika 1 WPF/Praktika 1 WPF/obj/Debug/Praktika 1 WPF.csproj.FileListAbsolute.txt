@@ -1,0 +1,51 @@
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\bin\Debug\Praktika 1 WPF.exe.config
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\bin\Debug\Praktika 1 WPF.exe
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\bin\Debug\Praktika 1 WPF.pdb
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.csprojAssemblyReference.cache
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\App.g.cs
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF_MarkupCompile.cache
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF_MarkupCompile.lref
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\MainWindow.baml
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.g.resources
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika_1_WPF.Properties.Resources.resources
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.csproj.GenerateResource.cache
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.exe
+C:\Users\Mikhail Babanin\source\repos\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.pdb
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\bin\Debug\Praktika 1 WPF.exe.config
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\bin\Debug\Praktika 1 WPF.exe
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\bin\Debug\Praktika 1 WPF.pdb
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.csprojAssemblyReference.cache
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\App.g.cs
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF_MarkupCompile.cache
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF_MarkupCompile.lref
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\MainWindow.baml
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.g.resources
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika_1_WPF.Properties.Resources.resources
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.csproj.GenerateResource.cache
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.exe
+C:\Users\Mikhail Babanin\Desktop\Новая папка (2)\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.pdb
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\bin\Debug\Praktika 1 WPF.exe.config
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\bin\Debug\Praktika 1 WPF.exe
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\bin\Debug\Praktika 1 WPF.pdb
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.csprojAssemblyReference.cache
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\App.g.cs
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF_MarkupCompile.cache
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF_MarkupCompile.lref
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\MainWindow.baml
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.g.resources
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika_1_WPF.Properties.Resources.resources
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.csproj.GenerateResource.cache
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.exe
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\Praktika 1 WPF.pdb
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\new window\Registr.g.cs
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\new window\Registr.baml
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\new window\Login.g.cs
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\new window\MainB.g.cs
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\new window\Login.baml
+C:\Users\Mikhail Babanin\Desktop\Практика WPF 1\Praktika 1 WPF\Praktika 1 WPF\obj\Debug\new window\MainB.baml

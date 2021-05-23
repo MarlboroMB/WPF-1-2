@@ -1,0 +1,43 @@
+﻿<Window x:Class="Praktika_1_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Praktika_1_WPF"
+        mc:Ignorable="d"
+        MinHeight="450"
+        MinWidth="800"
+        MaxHeight="450"
+        MaxWidth="800"
+        Title=".:: Launcher ::." Height="450" Width="800">
+    <Grid>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        
+        <!--Фон окна-->
+        <Border Grid.RowSpan="2" Background="Black"/>
+        
+        <!--Логотип и шрифт к логотипу-->
+        <Image Grid.RowSpan="2" Source="щинема\Screenshot_1.png" VerticalAlignment="Stretch" Width="900"/>
+        
+        <StackPanel Orientation="Horizontal"
+                    HorizontalAlignment="Left"
+                    Margin="25"
+                    VerticalAlignment="Top">
+            <StackPanel Width="10"/>
+            <TextBlock 
+                Text="Метро 2033" Width="350" Height="60"
+                FontFamily="PF Stamps Pro Metal Regular"
+                FontSize="55"
+                Foreground="White"/>
+        </StackPanel>
+
+        <Frame
+            Name="MainWin"
+            NavigationUIVisibility="Hidden"
+            Grid.Row="2"/>
+    </Grid>
+</Window>
